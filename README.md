@@ -49,3 +49,6 @@ We aim for these examples to be:
 * **Practical:** Demonstrating real-world (though possibly simplified) applications and platforms.
 * **Current:** Reflecting modern Kubernetes features and best practices.
 * **Maintained:** Kept up-to-date by the community and SIG Apps.
+
+Good for you!!
+
